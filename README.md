@@ -12,7 +12,6 @@ This project combines the power of **3D graphics** with **Artificial Intelligenc
 - **AI Integration**: Leverage DALL-E AI to generate unique images dynamically.
 - **Responsive Design**: Ensure the site looks great on any device.
 
-## 🛠️ What You'll Learn
 
 1. **3D Graphics Mastery**:
    - Load, customize, and animate stunning 3D models.
